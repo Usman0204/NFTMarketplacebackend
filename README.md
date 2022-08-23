@@ -1,3 +1,3 @@
-# rogue marketplace
+# PuplePiget marketplace
 
-Rogue MarketPlace
+PuplePiget MarketPlace
