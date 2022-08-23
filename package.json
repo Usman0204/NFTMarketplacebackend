@@ -1,0 +1,34 @@
+{
+  "name": "roguemarketplace",
+  "version": "1.0.0",
+  "description": "Rogue Marketplace",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Sheikh Wasif",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.5.0",
+    "aws-sdk": "^2.615.0",
+    "axios": "^0.21.1",
+    "bcryptjs": "^2.4.3",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "helmet": "^3.21.2",
+    "ipfs-http-client": "^52.0.1",
+    "joi": "^17.4.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.1.1",
+    "mongoose": "^6.0.8",
+    "moralis": "^0.0.36",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.3",
+    "node-fetch": "^2.6.1",
+    "truffle": "^5.4.11",
+    "web3": "^1.5.2"
+  }
+}
